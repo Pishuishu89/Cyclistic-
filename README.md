@@ -14,3 +14,11 @@ Analysis Tools: Python (Jupyter Lab), Pandas for data manipulation, Matplotlib f
 Insights & Recommendations: Designed strategies to encourage casual riders to commit to memberships through targeted promotions, commute-based incentives, and digital engagement.
 
 This project showcases data analytics, business intelligence, and strategic decision-making, making it a valuable case study for real-world marketing applications. 🚴‍♂️💡
+
+
+## Data Source 📊
+This project utilizes public bike-share data provided by **Divvy** (operated by Lyft).  
+The data is available under the [Divvy Data License Agreement](https://www.divvybikes.com/data-license-agreement).
+
+📌 **Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)  
+📌 **Disclaimer:** This data is provided by Motivate International Inc. and is subject to licensing restrictions. No personally identifiable information is included.
